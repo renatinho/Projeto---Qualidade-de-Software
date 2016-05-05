@@ -51,7 +51,6 @@
             this.lbTitulo.TabIndex = 0;
             this.lbTitulo.Text = "Bem Vindo";
             this.lbTitulo.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.lbTitulo.UseWaitCursor = true;
             // 
             // pictureBox1
             // 
